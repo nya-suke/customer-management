@@ -1,0 +1,17 @@
+.option {
+  display: flex;
+  flex-flow: wrap;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+}
+.sign-up {
+  color: green;
+  font-size: 50px;
+  text-decoration: none;
+}
+.customer-list {
+  color: green;
+  font-size: 50px;
+  text-decoration: none;
+}
